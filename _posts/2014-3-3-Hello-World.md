@@ -1,10 +1,12 @@
 ---
 layout: post
-title: You're up and running!
+title: You're up and Analyzing!
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+Hallo kleiner Aktienspeckulant. Hier steht die Wahrheit über die Zukunft, wann die Aktiuenlinie irgendwo abprallt (bounce, DOJIDOJI). Das ist Physik.
+Viel Spaß beim Lesen und reich werden/sein.
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
+Euere Interpreters
 
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+
+![the truth open your eyes]({{ site.baseurl }}/images/analyse2.png "The Future")

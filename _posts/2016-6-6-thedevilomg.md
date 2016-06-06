@@ -4,7 +4,7 @@ title: Was geht hoch?!
 ---
 
 201-6-6-6, Das _heutige_ Datum **6-6-6** ein Zufall? Wohl kaum. Nicht jeder Technical Evangelist weiß: 
-Heute gilt die _Teufel Formation_ unter der immer der Teufel den Aktienkurs hochdrückt **und** die immmer mit einem DOJI und **penisförmigen Pfeil** abgeschlossen wird.
+Heute gilt die _Teufel Formation_ unter der immer der Teufel den Aktienkurs hochdrückt **und** die immmer mit einem DOJI und penisförmigen Pfeil abgeschlossen wird.
 
 Wie man unschwer an dem Pfeil nach oben erkennen an gibt es nur eine Entfehlung!
 

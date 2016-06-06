@@ -4,12 +4,10 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Nacktien ist defacto DER Blog für den stylishen Techanalysten von heute. Wir bieten offensichtliche ChartANALysen, bewerten grundlose Kursbewegungen und stellen neue, esoterische Anlagestrategien vor. 
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+Geld! Aktien! Gewinn! ROI! Waren am Buffet! Geld! Geld! Geld! 
 
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+### Don't contact me

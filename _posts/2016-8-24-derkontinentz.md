@@ -17,7 +17,7 @@ Wenn man den Seismograph über den Chart legt, kann man unschwer erkennen, dass 
 _Erdberenformation_ angekündigt hat. 
 Keine Überraschung ist es daher, dass von einigen blogbetreibenden Personen mehrere Italienische Lire verdient wurden.
 
-Der Aktienmarkt wird nach dem kommenden Ausschlag nur noch leicht vor sich sich wackeln.
+Der Aktienmarkt wird nach dem kommenden Ausschlag nur noch leicht vor sich hin wackeln.
 
 ![italiaa, italiaa, itaalia, iitaalia]({{ site.baseurl }}/images/ita.png "Italia")
 

@@ -8,6 +8,11 @@ Ca*$*h stimmt (Yesh money rich).
 Nicht mehr so rich sind die Mexikaners (jetzt untere 10%) mit ihren fake Dollars (MEX$). Wie abzusehen war hat
 sich zwischen dem Armerikafarben blau und rot eine **GAP** geöffnet die mit einer Mauerformation geschlossen wird oder wurde!
 
+
+![MEX$]({{ site.baseurl }}/images/mexx.jpg "MEX$!")
+
 Ihr wisst also was zu tun ist! Kaufen Verkaufen!
+
+![MAUER]({{ site.baseurl }}/images/mauerformation.png "MAUERMAUER!")
 
 Hier auch in Zukunft präzise Aktienvorhersagen, aber bitte spendet ein bißchen, okay?

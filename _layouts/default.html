@@ -24,6 +24,8 @@
           <div class="site-info">
             <h1 class="site-name"><a href="{{ site.baseurl }}/">{{ site.name }}</a></h1>
             <p class="site-description">{{ site.description }}</p>
+            {% if site.description2 %}<p class="site-description">{{ site.description2 }}</p>{% endif %}
+            {% if site.description3 %}<p class="site-description">{{ site.description3 }}</p>{% endif %}
           </div>
 
           <nav>

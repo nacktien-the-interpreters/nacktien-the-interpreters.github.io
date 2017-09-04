@@ -16,9 +16,7 @@ Ihr Aufgabengebiet:
 - Sofortige oder verzögerte Mitarbeit an konkreten Aufgaben und Projekten
 - Schnittstelle zwischen die da oben und dem Pöbel
 
-Bereichen und Abteilungen
-
-Ihr Profil:
+Ihr Profi:
 - Allgemeinprofi
 - Schnelle Auffassungsgabe, Initiative, Kreativität
 - Bereitschaft zu Verantwortungsübernahme- oder -abgabe

@@ -27,6 +27,6 @@ Ihr Profi:
 - Jahrelange Erfahrung als Author des Super-Nice Blogs
 - Name reimt sich
 - 2 Arme und Beine, Kopf und Torso von Vorteil
-- Immer korrekte Schreibwise
+- Immer korrekte Schreibweiße
 
 Bezahlung in DogeCoins

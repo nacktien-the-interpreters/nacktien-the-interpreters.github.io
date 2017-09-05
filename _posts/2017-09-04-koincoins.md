@@ -8,7 +8,7 @@ Die Nacktien-Traderpros haben den Coin-Goldsäckel schon längst zugeschnürt.
 
 Achtung es geht ab!: Bei den BonzeCoins hat sich die Achterbahnformation ausgebildet.
 Hier der Beweis: 
-Nacktienuser stehen besser da. Klar **Outperformed**.
+Nacktienuser stehen besser da. Klar **Outperformed**. Wer schlau ist hat mit den Tipps hier mindestens Zig Millionen Promille gemacht.
 
 ![achterbahn]({{ site.baseurl }}/images/achterbahn.png "Achterbahnfahrt")
 

@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Nacktien ist defacto DER Blog für den stylishen Techanalysten von heute. Wir bieten offensichtliche Chart**anal**ysen, bewerten grundlose Kursbewegungen und stellen neue, esoterische Anlagestrategien vor. Zusätzlich gibt es hier die besten Lifehacks für ein Life.
+Nacktien ist defacto DER Blog für den stylishen Techanalysten von heute. Wir bieten offensichtliche Chart**anal**ysen, bewerten grundlose Kursbewegungen und stellen neue, esoterische Anlagestrategien vor. Zusätzlich gibt es hier die besten Lifehacks fürs Life.
 
 ### More Information
 

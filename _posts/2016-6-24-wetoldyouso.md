@@ -12,7 +12,7 @@ Jetzt ist guter Rat teuer, so wie für die Briten der (T)Euro vielleicht:
 
 ![teuro]({{ site.baseurl }}/images/teuro.PNG "Euro? WOHL EHER TEURO!")
 
-Unsere tiefgreifenden Analysen die wir auf hoch wissenschaftlichen Methoden aufbauen haben ergeben dass die Gap im Chart so langsam einfach zu groß wird und die Spikes nicht mehr gehalten werden können.  
+Unsere abgrundtiefen Analysen die wir auf hoch wissenschaftlichen Methoden aufbauen haben ergeben dass die Gap im Chart so langsam einfach zu groß wird und die Spikes nicht mehr gehalten werden können.  
 In dem Fall wird der gestern berechnete Trend zwar noch verfolgt, aber die [umgekehrte Untertasse](https://de.wikipedia.org/wiki/Technische_Analyse#Weitere_Muster) kann hier schon auf jeden Fall einigen Lesern das Investment versauen wenn sie nicht die Schulter-Kopf-Schulter Formation der Flaggen und Wimpel beachten!  
 **Seid also gewarnt!**
 
